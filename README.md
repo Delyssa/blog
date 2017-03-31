@@ -13,11 +13,6 @@ In this application you can:
 * View and comment articles created by other users.
 * View comments below all articles.
 
-## Staging
-
-https://dimafed-blog.herokuapp.com
-
-
 ## Credits
 
 Blog is created by [Dmitry Fedorov](https://github.com/dmitry-fedorov/).
